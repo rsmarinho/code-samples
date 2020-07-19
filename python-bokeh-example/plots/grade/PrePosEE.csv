@@ -1,0 +1,86 @@
+Disciplina Pre;Disciplina Pos
+IC;Tec. de Prog.
+Calculo I;Calculo II
+Vetorial;Linear
+Calculo II;Calculo III
+Vetorial;Calculo III
+Calculo II;Equacoes
+Linear;Equacoes
+Calculo II;Probabilidades
+Probabilidades;Estocasticos
+IC;Numerico
+Calculo III;Numerico
+Calculo III;Complexas
+Fisica I;Fisica II
+Fisica II;Experimental I
+Fisica II;Fisica III
+Fisica III;Experimental II
+Calculo III;Fluidos II
+Equacoes;Fluidos II
+Calculo III;Solidos I
+Equacoes;Solidos I
+Fisica I;Solidos I
+Solidos I;Solidos II
+Quimica;ICM
+Numerico;Sistemas Elet.
+Circuitos II;Sistemas Elet.
+Conversao;Sistemas Elet.
+Equacoes;Circuitos I
+Circuitos I;Circuitos II
+Fisica III;Eletromag
+Circuitos I;Dispositivos
+Dispositivos;Eletronica
+Eletronica;ElePot
+Fisica III;Materiais Elet.
+ICM;Materiais Elet.
+Eletromag;Conversao
+Conversao;Maquinas
+IC;Teoria de Cont.
+Sinais;Teoria de Cont.
+Teoria de Cont.;Controle I
+Equacoes;Sinais
+Complexas;Sinais
+Estocasticos;Principios
+Sinais;Principios
+Circ. Logicos;Arq. de Sist.
+Eletronica;Instrum. Elet.
+Sistemas Elet.;Instalacoes
+Materiais Elet.;Instalacoes
+ElePot;Acionamentos
+Maquinas;Acionamentos
+Sistemas Elet.;Tec. de Med.
+Eletronica;Filtros
+Instrum. Elet.;Instrument. Ind.
+Eletronica;Microcontrolad.
+Arq. de Sist.;Microcontrolad.
+Sistemas Elet.;ASE
+Controle I;Automacao Intel.
+ElePot;Conversores EE
+Maquinas;Conversores EE
+Arq. de Sist.;Inform. Indust.
+Instrum. Elet.;Sistemas de Aq.
+Controle I;Controle de Proc.
+Arq. de Sist.;Sistemas de Aut.
+Arq. de Sist.;Eventos Discretos
+Tec. de Prog.;Tempo Real
+Arq. de Sist.;Tempo Real
+Arq. de Sist.;PDS
+Eletronica;Audio e Video
+Eletronica;Concep. de CI
+Principios;Comun. Digital
+Dispositivos;Projeto de CI
+Arq. de Sist.;Arq. Avancada
+Principios;Circuitos para C.
+ASE;Protecao
+ASE;Distribuicao
+Sistemas Elet.;Gestao
+Maquinas;Geracao
+ElePot;Fontes
+Maquinas;Fontes
+Instalacoes;Equipamentos
+Sinais;PDS
+Instrument. Ind.;Controle de Proc.
+Calculo III;Eletromag
+Fisica III;Circuitos I
+Circuitos II;Conversao
+Circuitos II;ElePot

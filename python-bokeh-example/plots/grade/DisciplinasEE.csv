@@ -1,0 +1,81 @@
+Codigo;SE;EL;CA;GN;Nome;Nome Curto;Tipo;Periodo Ideal;Creditos;Obrigatoria ou Optativa;Departamento;171.MAT;162.AP;162.RP;162.RF;162.TR;162.MA;162.ES;162.CA
+1707512;;;1;1;Acionamentos e Controles Eletricos 04 60 39 e 42;Acionamentos;Complementares Obrigatorios: Generalista/Controle e Automacao;8;4; Obrigatoria;DEE;0,20;0,92;0,08;0,00;0,00;0,00;0,00;0,00
+1204172;1;1;1;1;Administracao para Engenharia 03 45 --;Administracao;Basicos;2;3; Obrigatoria;DADM;0,63;0,59;0,08;0,19;0,14;0,00;0,00;0,00
+1707014;1;1;1;1;Analise de Sinais e Sistemas 04 60 13 e 17;Sinais;Profissionais;5;4; Obrigatoria;DEE;0,70;0,63;0,10;0,19;0,06;0,00;0,00;0,02
+1707517;1;;;1;Analise de Sistemas Eletricos 04 60 33;ASE;Complementares Obrigatorios: Sistemas de Energia;8;4; Obrigatoria;DEE;0,60;0,86;0,07;0,00;0,07;0,00;0,00;0,00
+1707531;;1;;1;Arquitetura Avancada para Computacao 04 60 49;Arq. Avancada;Complementares Optativos: Eletronica;10;4;Optativa;DEE;0,00;0,77;0,08;0,00;0,08;0,00;0,00;0,08
+1707002;1;1;1;1;Arquitetura de Sistemas Digitais 05 75 48;Arq. de Sist.;Profissionais;3;5; Obrigatoria;DEE;0,70;0,67;0,21;0,12;0,00;0,00;0,00;0,00
+1707518;;;1;1;Automacao Inteligente 04 60 45;Automacao Intel.;Complementares Optativos: Controle e Automacao;10;4;Optativa;DEE;0,00;0,92;0,08;0,00;0,00;0,00;0,00;0,00
+1108100;1;1;1;1;Calculo das Probabilidades e Estatistica 1 04 60 09;Probabilidades;Basicos;3;4; Obrigatoria;DEst;1,00;0,93;0,03;0,00;0,03;0,00;0,00;0,00
+1103177;1;1;1;1;Calculo Diferencial e Integral I 04 60 --;Calculo I;Basicos;1;4; Obrigatoria;DM;1,00;0,45;0,17;0,26;0,09;0,00;0,00;0,03
+1103178;1;1;1;1;Calculo Diferencial e Integral II 04 60 08;Calculo II;Basicos;2;4; Obrigatoria;DM;0,59;0,45;0,25;0,17;0,11;0,00;0,00;0,03
+1103232;1;1;1;1;Calculo Diferencial e Integral III 04 60 09 e 10;Calculo III;Basicos;3;4; Obrigatoria;DM;0,98;0,38;0,26;0,24;0,11;0,00;0,00;0,01
+GDCOC0072;1;1;1;1;Calculo Numerico 04 60 05 e 12;Numerico;Basicos;4;4; Obrigatoria;DCC;0,95;0,68;0,07;0,13;0,11;0,00;0,00;0,01
+1103118;1;1;1;1;Calculo Vetorial e Geometria Analitica 04 60 --;Vetorial;Basicos;1;4; Obrigatoria;DM;0,92;0,41;0,20;0,22;0,13;0,00;0,00;0,04
+1703103;1;1;1;1;Ciencias do Ambiente 03 45 --;Ciencias do A.;Basicos;6;3; Obrigatoria;DECA;0,40;0,74;0,14;0,00;0,09;0,00;0,00;0,03
+1707499;1;1;1;1;Circuitos Eletricos I 05 75 13;Circuitos I;Profissionais;4;5; Obrigatoria;DEE;1,00;0,25;0,43;0,26;0,03;0,00;0,00;0,03
+1707015;1;1;1;1;Circuitos Eletricos II 04 60 34;Circuitos II;Profissionais;5;4; Obrigatoria;DEE;0,48;0,69;0,17;0,10;0,00;0,00;0,00;0,05
+1707001;1;1;1;1;Circuitos Logicos 05 75 --;Circ. Logicos;Profissionais;2;5; Obrigatoria;DEE;0,78;0,52;0,34;0,00;0,12;0,00;0,00;0,02
+1707532;;1;;1;Circuitos para Comunicacoes 04 60 38 e 47;Circuitos para C.;Complementares Optativos: Eletronica;10;4;Optativa;DEE;0,00;0,64;0,36;0,00;0,00;0,00;0,00;0,00
+1707529;;1;;1;Comunicacao Digital 04 60 47;Comun. Digital;Complementares Optativos: Eletronica;10;4;Optativa;DEE;0,00;0,71;0,00;0,00;0,29;0,00;0,00;0,00
+1707522;;;1;1;Controle de Processos 04 60 45 e 62;Controle de Proc.;Complementares Optativos: Controle e Automacao;10;4;Optativa;DEE;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+1707505;1;1;1;1;Controle I 05 75 43;Controle I;Profissionais;7;5; Obrigatoria;DEE;0,50;0,61;0,17;0,00;0,22;0,00;0,00;0,00
+1707503;1;1;1;1;Conversao de Energia 05 75 36;Conversao;Profissionais;6;5; Obrigatoria;DEE;1,00;0,33;0,29;0,33;0,04;0,00;0,00;0,02
+1707519;1;;1;1;Conversores Estaticos e Eletromecanicos 04 60 39 e 42;Conversores EE;Complementares Optativos: Sistemas de Energia/Controle e Automacao;8;4;Optativa;DEE;0,25;0,69;0,00;0,00;0,31;0,00;0,00;0,00
+1704245;1;1;1;1;Desenho Basico para Engenharia Eletrica 04 60 --;Desenho;Basicos;1;4; Obrigatoria;DA;0,94;0,50;0,39;0,00;0,05;0,00;0,00;0,05
+1707013;1;1;1;1;Dispositivos Eletronicos 04 60 34;Dispositivos;Profissionais;5;4; Obrigatoria;DEE;0,80;0,26;0,67;0,00;0,03;0,00;0,00;0,05
+1707534;1;;;1;Distribuicao de Energia Eletrica 04 60 66;Distribuicao;Complementares Optativos: Sistemas de Energia;10;4;Optativa;DEE;0,50;1,00;0,00;0,00;0,00;0,00;0,00;0,00
+1201126;1;1;1;1;Economia I 04 60 --;Economia I;Basicos;5;4; Obrigatoria;DEco;0,00;0,49;0,17;0,03;0,23;0,00;0,00;0,09
+1101785;1;1;1;1;Eletromagnetismo I 04 60 22;Eletromag;Profissionais;5;4; Obrigatoria;DF;1,03;0,50;0,30;0,00;0,19;0,00;0,00;0,02
+1707501;1;1;1;1;Eletronica 05 75 37;Eletronica;Profissionais;6;5; Obrigatoria;DEE;0,27;0,83;0,13;0,00;0,04;0,00;0,00;0,00
+1707506;1;1;1;1;Eletronica de Potencia 05 75 38;ElePot;Profissionais;7;5; Obrigatoria;DEE;0,63;0,81;0,10;0,00;0,10;0,00;0,00;0,00
+1707535;1;;;1;Equipamentos Eletricos 04 60 64;Equipamentos;Complementares Optativos: Sistemas de Energia;10;4;Optativa;DEE;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+1707540;1;1;1;1;Estagio Supervisionado;Estagio;Estagio;10;12; Obrigatoria;DEE;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+1707528;;1;;1;Estrutura e Concepcao de Circuitos Integrados 04 60 38;Concep. de CI;Complementares Optativos: Eletronica;10;4;Optativa;DEE;0,80;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+1707514;;1;1;1;Filtros Eletricos 04 60 38;Filtros;Complementares Obrigatorios: Eletronica/Controle e Automacao;8;4; Obrigatoria;DEE;0,40;0,83;0,09;0,04;0,04;0,00;0,00;0,00
+1101165;1;1;1;1;Fisica Experimental I 02 30 19 e 20;Experimental I;Basicos;3;2; Obrigatoria;DF;0,85;0,89;0,02;0,04;0,05;0,00;0,00;0,00
+1101166;1;1;1;1;Fisica Experimental II 02 30 22;Experimental II;Basicos;4;2; Obrigatoria;DF;0,79;0,86;0,01;0,04;0,08;0,00;0,00;0,01
+1101157;1;1;1;1;Fisica Geral I 04 60 --;Fisica I;Basicos;1;4; Obrigatoria;DF;0,92;0,26;0,55;0,00;0,15;0,00;0,00;0,04
+1101163;1;1;1;1;Fisica Geral II 04 60 19;Fisica II;Basicos;2;4; Obrigatoria;DF;0,73;0,43;0,29;0,20;0,14;0,00;0,00;0,00
+1101164;1;1;1;1;Fisica Geral III 04 60 19;Fisica III;Basicos;3;4; Obrigatoria;DF;0,94;0,39;0,50;0,00;0,08;0,00;0,00;0,03
+1707538;1;;;1;Fontes Renovaveis e Utilizacao da Energia 04 60 39 e 42;Fontes;Complementares Optativos: Sistemas de Energia;10;4;Optativa;DEE;0,00;0,86;0,00;0,00;0,14;0,00;0,00;0,00
+1103128;1;1;1;1;Funcoes de uma Variavel Complexa 04 60 12;Complexas;Basicos;4;4; Obrigatoria;DM;0,99;0,36;0,36;0,18;0,10;0,00;0,00;0,00
+1707537;1;;;1;Geracao de Energia Eletrica 04 60 41;Geracao;Complementares Optativos: Sistemas de Energia;10;4;Optativa;DEE;0,50;1,00;0,00;0,00;0,00;0,00;0,00;0,00
+1707536;1;;;1;Gestao Energetica 04 60 33;Gestao;Complementares Optativos: Sistemas de Energia;10;4;Optativa;DEE;0,65;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+1707520;;;1;1;Informatica Industrial 04 60 49;Inform. Indust.;Complementares Optativos: Controle e Automacao;10;4;Optativa;DEE;0,00;0,82;0,09;0,00;0,09;0,00;0,00;0,00
+1107174;1;1;1;1;Iniciacao a Computacao 04 60 --;IC;Basicos;2;4; Obrigatoria;DI;0,52;0,68;0,03;0,17;0,12;0,00;0,00;0,00
+1707511;1;;;1;Instalacoes Eletricas 04 60 33 e 40;Instalacoes;Complementares Obrigatorios: Generalista/Sistemas de Energia;8;4; Obrigatoria;DEE;0,33;0,95;0,05;0,00;0,00;0,00;0,00;0,00
+1707507;1;1;1;1;Instrumentacao Eletronica 04 60 38;Instrum. Elet.;Profissionais;7;4; Obrigatoria;DEE;1,00;0,89;0,06;0,00;0,06;0,00;0,00;0,00
+1707515;;1;1;1;Instrumentacao Industrial 04 60 50;Instrument. Ind.;Complementares Obrigatorios: Eletronica/Controle e Automacao;8;4; Obrigatoria;DEE;0,40;0,82;0,00;0,00;0,18;0,00;0,00;0,00
+1103179;1;1;1;1;Introducao a algebra Linear 04 60 10;Linear;Basicos;2;4; Obrigatoria;DM;0,00;0,49;0,18;0,25;0,09;0,00;0,00;0,00
+2102005;1;1;1;1;Introducao a Ciencia dos Materiais 04 60 27;ICM;Basicos;3;4; Obrigatoria;DEER;0,62;0,85;0,15;0,00;0,00;0,00;0,00;0,00
+1108182;1;1;1;1;Introducao a Processos Estocasticos 04 60 14;Estocasticos;Basicos;4;4; Obrigatoria;DEst;0,80;0,68;0,00;0,23;0,03;0,00;0,00;0,06
+1403747;1;1;1;1;Libras;Libras;Complementares Optativos: Sistemas de Energia/Eletronica/Controle e Automacao;10;4;Optativa;DLCV;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+1404138;1;1;1;1;Lingua Inglesa I 05 75 --;Ingles;Basicos;1;5; Obrigatoria;DLEM;0,58;0,64;0,03;0,30;0,00;0,00;0,00;0,03
+1707510;1;1;1;1;Maquinas Eletricas 05 75 41;Maquinas;Profissionais;7;5; Obrigatoria;DEE;0,50;0,92;0,00;0,00;0,08;0,00;0,00;0,00
+1707502;1;1;1;1;Materiais Eletricos 04 60 22 e 28;Materiais Elet.;Profissionais;6;4; Obrigatoria;DEE;0,67;0,85;0,08;0,03;0,05;0,00;0,00;0,00
+1701179;1;1;1;1;Mecanica dos Fluidos II 06 90 12 e 13;Fluidos II;Basicos;6;6; Obrigatoria;DEM;1,00;0,59;0,30;0,00;0,11;0,00;0,00;0,00
+1701180;1;1;1;1;Mecanica dos Solidos I 06 90 12, 13 e 19;Solidos I;Basicos;4;6; Obrigatoria;DEM;1,00;0,42;0,31;0,00;0,25;0,00;0,00;0,03
+1701181;1;1;1;1;Mecanica dos Solidos II 05 75 25;Solidos II;Basicos;5;5; Obrigatoria;DEM;0,58;0,76;0,18;0,00;0,04;0,00;0,00;0,01
+1701175;1;1;1;1;Metodologia do Trabalho Cientifico 03 45 --;Metodologia;Basicos;1;3; Obrigatoria;DEM;1,00;0,93;0,00;0,00;0,02;0,00;0,00;0,05
+1707516;;1;;1;Microcontroladores e Microprocessadores 04 60 38 e 49;Microcontrolad.;Complementares Obrigatorios: Eletronica;8;4; Obrigatoria;DEE;0,65;1,00;0,00;0,00;0,00;0,00;0,00;0,00
+1707504;1;1;1;1;Pesquisa Aplicada a Engenharia Eletrica 03 45 --;Pesquisa;Basicos;6;3; Obrigatoria;DEE;0,54;0,67;0,12;0,00;0,21;0,00;0,00;0,00
+1403153;1;1;1;1;Portugues Instrumental 04 60 --;Portugues;Basicos;1;4; Obrigatoria;DLCV;0,68;0,73;0,00;0,15;0,09;0,00;0,00;0,02
+1707509;1;1;1;1;Principios de Comunicacoes 05 75 15 e 46;Principios;Profissionais;7;5; Obrigatoria;DEE;0,80;0,76;0,06;0,06;0,12;0,00;0,00;0,00
+1707526;;1;;1;Processamento Digital de Sinais 04 60 49;PDS;Complementares Optativos: Eletronica;10;4;Optativa;DEE;0,50;1,00;0,00;0,00;0,00;0,00;0,00;0,00
+1707530;;1;;1;Projeto de Circuitos Integrados 04 60 37;Projeto de CI;Complementares Optativos: Eletronica;10;4;Optativa;DEE;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+1707533;1;;;1;Protecao de Sistemas Eletricos 04 60 66;Protecao;Complementares Optativos: Sistemas de Energia;10;4;Optativa;DEE;0,60;1,00;0,00;0,00;0,00;0,00;0,00;0,00
+1105161;1;1;1;1;Quimica Fundamental 04 60 --;Quimica;Basicos;2;4; Obrigatoria;DQ;0,62;0,55;0,08;0,18;0,20;0,00;0,00;0,00
+1103180;1;1;1;1;Series e Equacoes Diferenciais Ordinarias 04 60 09 e 11;Equacoes;Basicos;3;4; Obrigatoria;DM;1,01;0,50;0,40;0,00;0,10;0,00;0,00;0,01
+1707524;;;1;1;Sistemas a Eventos Discretos 04 60 49;Eventos Discretos;Complementares Optativos: Controle e Automacao;10;4;Optativa;DEE;0,50;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+1707521;;1;1;1;Sistemas de Aquisicao de Dados e Interfaces 04 60 50;Sistemas de Aq.;Complementares Optativos: Eletronica/Controle e Automacao;8;4;Optativa;DEE;0,10;1,00;0,00;0,00;0,00;0,00;0,00;0,00
+1707523;;;1;1;Sistemas de Automacao Industrial 04 60 49;Sistemas de Aut.;Complementares Optativos: Controle e Automacao;10;4;Optativa;DEE;0,40;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+1707527;;1;;1;Sistemas de Processamento de audio e Video 04 60 38;Audio e Video;Complementares Optativos: Eletronica;10;4;Optativa;DEE;0,00;0,84;0,16;0,00;0,00;0,00;0,00;0,00
+1707508;1;1;1;1;Sistemas Eletricos 05 75 16, 35 e 41;Sistemas Elet.;Profissionais;7;5; Obrigatoria;DEE;0,44;0,76;0,24;0,00;0,00;0,00;0,00;0,00
+1707525;;;1;1;Sistemas em Tempo Real 04 60 06 e 49;Tempo Real;Complementares Optativos: Controle e Automacao;10;4;Optativa;DEE;0,73;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+1401161;1;1;1;1;Sociologia do Trabalho 04 60 --;Sociologia;Basicos;4;4; Obrigatoria;DCS;0,40;0,69;0,00;0,18;0,13;0,00;0,00;0,00
+1707513;1;;;1;Tecnicas de Medicao 04 60 33;Tec. de Med.;Complementares Obrigatorios: Generalista/Sistemas de Energia;8;4; Obrigatoria;DEE;0,37;1,00;0,00;0,00;0,00;0,00;0,00;0,00
+1707012;1;1;1;1;Tecnicas de Programacao 04 60 05;Tec. de Prog.;Basicos;5;4; Obrigatoria;DEE;1,00;0,44;0,42;0,00;0,11;0,00;0,00;0,03
+1707500;1;1;1;1;Teoria de Controle 04 60 5,11,12 e13;Teoria de Cont.;Profissionais;6;4; Obrigatoria;DEE;1,00;0,24;0,41;0,22;0,11;0,00;0,00;0,02
+1707539;1;1;1;1;Topicos Especiais em Engenharia Eletrica 04 60;Topicos;Complementares Flexiveis;9;4; Obrigatoria;DEE;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+1707541;1;1;1;1;Trabalho de Conclusao de Curso – TCC 04 60 180 horas;TCC;Complementares Obrigatorios: Generalista/Sistemas de Energia/Eletronica/Controle e Automacao;9;4; Obrigatoria;DEE;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
