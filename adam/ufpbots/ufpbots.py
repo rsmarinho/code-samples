@@ -32,8 +32,8 @@ class ufpbots(adam.adamApp):
 
 		self.showScreen('UFPBots')
 
-	# def setup(self, p):
-		# a = ufpbots_setup(p, p)
+	def setup(self, p):
+		a = ufpbots_setup(p, p)
 
 	def motorTest(self, p):
 		label = Label(p, text="motorTest screen")
@@ -292,72 +292,72 @@ class camera_settings:
 		return cv2.resize(f, None, fx=0.8, fy=0.8, interpolation = cv2.INTER_AREA)
 
 # ufpbot model classes
-# class ufpbots_setup:
-# 	def __init__(self, parent, controller):
-# 		self.parent = parent
-# 		self.controller = controller
-#
-# 		self.ports = []
-# 		self.tlock = threading.Lock()
-#
-# 		# self.t1 = threading.Thread(target=self.list_ports)
-# 		# self.t1.daemon = True
-# 		# self.t1.start()
-#
-# 		self.t2 = threading.Thread(target=self.serial_comm)
-# 		self.t2.daemon = True
-# 		self.t2.start()
-#
-# 		# self.t3 = threading.Thread(target=self.serial_choose)
-# 		# self.t3.daemon = True
-# 		# self.t3.start()
-#
-# 		self.ports = ['None']
-# 		self.port = self.ports[0]
-# 		self.var = StringVar()
-#
-# 		self.option = OptionMenu(self.parent, self.var, self.ports)
-# 		self.option.pack()
-#
-#
-# 	def serial_choose(self):
-# 		while True:
-# 			self.tlock.acquire()
-# 			try:
-# 				self.port = self.option.focus()
-# 				self.var.set(self.port)
-# 			finally:
-# 				self.tlock.release()
-# 			time.sleep(0.5)
-#
-# 	def serial_comm(self):
-#
-# 		oldlist = self.ports
-# 		while True:
-# 			self.tlock.acquire()
-# 			self.ports = sorted([port.device for port in list_ports.comports()])
-# 			try:
-# 				if self.ports == oldlist:
-# 					# self.port = self.option.focus()
-# 					pass
-# 				elif self.ports != oldlist:
-# 					m = self.option['menu']
-# 					m.delete(0, END)
-# 					for val in self.ports:
-# 					    m.add_command(label=val, command=lambda v=self.var,l=val:v.set(l))
-# 					pass
-# 				elif self.option.focus():
-# 					self.port = self.option.focus()
-# 			finally:
-# 				self.tlock.release()
-# 			time.sleep(0.5)
-#
-# 	def list_ports(self):
-# 		while True:
-# 			self.tlock.acquire()
-# 			try:
-# 				self.ports = sorted([port.device for port in list_ports.comports()])
-# 				# print('t1: ')
-# 			finally:
-# 				self.tlock.release()
-# 			time.sleep(0.5)
+class ufpbots_setup:
+	def __init__(self, parent, controller):
+		self.parent = parent
+		self.controller = controller
+
+		self.ports = []
+		self.tlock = threading.Lock()
+
+		# self.t1 = threading.Thread(target=self.list_ports)
+		# self.t1.daemon = True
+		# self.t1.start()
+
+		self.t2 = threading.Thread(target=self.serial_comm)
+		self.t2.daemon = True
+		self.t2.start()
+
+		# self.t3 = threading.Thread(target=self.serial_choose)
+		# self.t3.daemon = True
+		# self.t3.start()
+
+		self.ports = ['None']
+		self.port = self.ports[0]
+		self.var = StringVar()
+
+		self.option = OptionMenu(self.parent, self.var, self.ports)
+		self.option.pack()
+
+
+	def serial_choose(self):
+		while True:
+			self.tlock.acquire()
+			try:
+				self.port = self.option.focus()
+				self.var.set(self.port)
+			finally:
+				self.tlock.release()
+			time.sleep(0.5)
+
+	def serial_comm(self):
+
+		oldlist = self.ports
+		while True:
+			self.tlock.acquire()
+			self.ports = sorted([port.device for port in list_ports.comports()])
+			try:
+				if self.ports == oldlist:
+					# self.port = self.option.focus()
+					pass
+				elif self.ports != oldlist:
+					m = self.option['menu']
+					m.delete(0, END)
+					for val in self.ports:
+					    m.add_command(label=val, command=lambda v=self.var,l=val:v.set(l))
+					pass
+				elif self.option.focus():
+					self.port = self.option.focus()
+			finally:
+				self.tlock.release()
+			time.sleep(0.5)
+
+	def list_ports(self):
+		while True:
+			self.tlock.acquire()
+			try:
+				self.ports = sorted([port.device for port in list_ports.comports()])
+				# print('t1: ')
+			finally:
+				self.tlock.release()
+			time.sleep(0.5)
